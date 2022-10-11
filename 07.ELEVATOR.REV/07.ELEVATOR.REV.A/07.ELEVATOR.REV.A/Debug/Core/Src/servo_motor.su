@@ -1,0 +1,2 @@
+../Core/Src/servo_motor.c:20:6:auto_door_sequence	4	static
+../Core/Src/servo_motor.c:50:6:servo_motor_control_main	8	static

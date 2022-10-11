@@ -1,0 +1,9 @@
+led_rev1.c:4:6:led2_toggle	8	static
+led_rev1.c:10:6:led_flower_on	16	static
+led_rev1.c:19:6:led_flower_off	16	static
+led_rev1.c:28:6:led_on_1_up	16	static
+led_rev1.c:38:6:led_on_1_down	16	static
+led_rev1.c:48:6:led_on_up	16	static
+led_rev1.c:57:6:led_on_down	16	static
+led_rev1.c:66:6:led_all_on	8	static
+led_rev1.c:71:6:led_all_off	8	static

@@ -1,0 +1,7 @@
+../Core/Src/stepmotor.c:36:6:set_rpm	16	static
+../Core/Src/stepmotor.c:43:6:stepmotor_driver2	16	static
+../Core/Src/stepmotor.c:131:6:stepmotor_driver	16	static
+../Core/Src/stepmotor.c:197:6:stepmotor_forward_backward_stop	8	static
+../Core/Src/stepmotor.c:240:6:stepmotor_cw_ccw_control	8	static
+../Core/Src/stepmotor.c:274:6:flow_button_move	8	static
+../Core/Src/stepmotor.c:557:6:exint_motor_control	8	static

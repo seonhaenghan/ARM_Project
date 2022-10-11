@@ -1,0 +1,5 @@
+../Core/Src/UART0.c:33:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/UART0.c:72:5:is_empty	4	static
+../Core/Src/UART0.c:80:5:is_full	16	static
+../Core/Src/UART0.c:94:6:pc_command_processing	16	static
+../Core/Src/UART0.c:184:5:digit_chk	24	static
